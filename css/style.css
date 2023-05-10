@@ -19,7 +19,7 @@ header {
 }
 
 .sl {
-  margin-right: 16px; ;
+  margin-right: 16px;
 }
 
 .container {
@@ -31,7 +31,7 @@ header {
 .new-side-list {
   list-style: none;
   display: flex;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .nsl {
@@ -41,7 +41,7 @@ header {
 .another-side-list {
   list-style: none;
   display: flex;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .asl {
@@ -62,21 +62,21 @@ a {
   color: white;
   font-family: 'Times New Roman', Times, serif;
   padding-right: 270px;
-  padding-top: 0px;
+  padding-top: 0;
 }
 
 .pain-container {
   font-size: 20px;
   color: white;
-  padding-left: 0px;
-  margin-bottom: 0px;
+  padding-left: 0;
+  margin-bottom: 0;
 }
 
 .tiny-container {
   font-size: 15px;
   color: white;
-  padding-left: 0px;
-  margin-top: 0px;
+  padding-left: 0;
+  margin-top: 0;
 }
 
 p {
@@ -87,7 +87,7 @@ p {
   margin-top: 40px;
 }
 
-.second-container { 
+.second-container {
   margin-top: 40px;
 }
 
