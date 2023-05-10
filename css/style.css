@@ -1,124 +1,124 @@
-body{
-    background-color: black;
-    color:white;
+body {
+  background-color: black;
+  color: white;
 }
 
-header{
-    background-color: gray;
-    color: white;
+header {
+  background-color: gray;
+  color: white;
 }
 
 .main-container {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .side-list {
-    list-style: none;
-    display: flex;
+  list-style: none;
+  display: flex;
 }
 
 .sl {
-    margin-right: 16px; ;
+  margin-right: 16px; ;
 }
 
 .container {
-    font-size: 50px;
-    font-family:'Times New Roman', Times, serif;
-    font-weight: bolder;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
 }
 
-.new-side-list{
-    list-style: none;
-    display: flex;
-    padding-left: 0px;
+.new-side-list {
+  list-style: none;
+  display: flex;
+  padding-left: 0px;
 }
 
-.nsl{
-    margin-right: 16px;
+.nsl {
+  margin-right: 16px;
 }
 
-.another-side-list{
-    list-style: none;
-    display: flex;
-    padding-left: 0px;
+.another-side-list {
+  list-style: none;
+  display: flex;
+  padding-left: 0px;
 }
 
-.asl{
-    margin-right: 16px;
+.asl {
+  margin-right: 16px;
 }
 
-h1{
-    color: orange;
-    font-size: 30px;
+h1 {
+  color: orange;
+  font-size: 30px;
 }
 
-a{
-    color: orange;
+a {
+  color: orange;
 }
 
-.new-container{
-    font-size: 50px;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    padding-right: 270px;
-    padding-top: 0px;
+.new-container {
+  font-size: 50px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding-right: 270px;
+  padding-top: 0px;
 }
 
-.pain-container{
-    font-size: 20px;
-    color: white;
-    padding-left: 0px;
-    margin-bottom: 0px;
+.pain-container {
+  font-size: 20px;
+  color: white;
+  padding-left: 0px;
+  margin-bottom: 0px;
 }
 
-.tiny-container{
-    font-size: 15px;
-    color: white;
-    padding-left: 0px;
-    margin-top: 0px;
+.tiny-container {
+  font-size: 15px;
+  color: white;
+  padding-left: 0px;
+  margin-top: 0px;
 }
 
-p{
-    font-size: 20px;
+p {
+  font-size: 20px;
 }
 
 .real-container {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
-.second-container{
-    margin-top: 40px;
+.second-container { 
+  margin-top: 40px;
 }
 
-.third-container{
-    margin-top: 40px;
+.third-container {
+  margin-top: 40px;
 }
 
-.fourth-container{
-    background-color: grey;
-    width: 800px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-style: normal;
-    padding-top: 3.5px;
-    padding-bottom: 3.5px;
+.fourth-container {
+  background-color: grey;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-style: normal;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
 }
 
-.sixth-container{
-    margin-top: 40px;
+.sixth-container {
+  margin-top: 40px;
 }
 
-.seventh-container{
-    background-color: gray;
-    width: 800px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 3.5px;
-    padding-bottom: 3.5px;
-    padding-left: 2.5px;
+.seventh-container {
+  background-color: gray;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
+  padding-left: 2.5px;
 }
 
-.eigth-container{
-    font-style: italic;
+.eigth-container {
+  font-style: italic;
 }
