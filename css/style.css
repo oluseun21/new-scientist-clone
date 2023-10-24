@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: #36454F;
+  background-color: #36454f;
   color: white;
   height: 150px;
 }
@@ -43,14 +43,14 @@ header {
 .button-icon {
   border: 1px solid orange;
   border-radius: 10px;
-  background-color: #36454F;
+  background-color: #36454f;
 }
 
 .icon {
   position: relative;
   bottom: 0.4vmax;
   color: white;
-  background-color: #36454F;
+  background-color: #36454f;
   text-decoration: none;
 }
 
