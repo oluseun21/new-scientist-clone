@@ -44,6 +44,10 @@ header {
   border: 1px solid orange;
   border-radius: 10px;
   background-color: #36454f;
+  
+  @media screen {
+    
+  }
 }
 
 .icon {
