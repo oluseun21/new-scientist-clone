@@ -1,0 +1,190 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+header {
+  background-color: #36454f;
+  color: white;
+  height: 150px;
+}
+
+.page {
+  margin: 0 30px 0 30px;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.side-list {
+  background-color: gray;
+  border: 1px solid yellow;
+  border-radius: 15px;
+  list-style: none;
+  display: flex;
+}
+
+.sl {
+  margin-right: 16px;
+}
+
+.container {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.new-icon {
+  margin-top: 10px;
+}
+
+.button-icon {
+  border: 1px solid orange;
+  border-radius: 10px;
+  background-color: #36454f;
+  
+  @media screen {
+    
+  }
+}
+
+.icon {
+  position: relative;
+  bottom: 0.4vmax;
+  color: white;
+  background-color: #36454f;
+  text-decoration: none;
+}
+
+.searching-icon {
+  position: relative;
+  bottom: 0.4vmax;
+  color: white;
+  background-color: black;
+  border: 1px solid yellow;
+  border-radius: 10px;
+}
+
+.person {
+  margin: 0 20px 0 5px;
+  color: orange;
+}
+
+.search {
+  border: 1px solid yellow;
+  border-radius: 10px;
+}
+
+.search-icon {
+  position: relative;
+  top: 0.6vmax;
+}
+
+.new-side-list {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
+
+.nsl {
+  margin-right: 16px;
+}
+
+.another-side-list {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
+
+.subscribe {
+  background-color: orange;
+  padding: 7px;
+  border-radius: 10px;
+  margin-left: 28em;
+}
+
+.operation {
+  color: black;
+  text-decoration: none;
+}
+
+.asl {
+  margin-right: 16px;
+}
+
+h1 {
+  color: orange;
+  font-size: 30px;
+}
+
+a {
+  color: orange;
+}
+
+.new-container {
+  font-size: 50px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding-right: 270px;
+  padding-top: 0;
+}
+
+.pain-container {
+  font-size: 20px;
+  color: white;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.tiny-container {
+  font-size: 15px;
+  color: white;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+p {
+  font-size: 20px;
+}
+
+.real-container {
+  margin-top: 40px;
+}
+
+.second-container {
+  margin-top: 40px;
+}
+
+.third-container {
+  margin-top: 40px;
+}
+
+.fourth-container {
+  background-color: grey;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-style: normal;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
+}
+
+.sixth-container {
+  margin-top: 40px;
+}
+
+.seventh-container {
+  background-color: gray;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
+  padding-left: 2.5px;
+}
+
+.eigth-container {
+  font-style: italic;
+}
